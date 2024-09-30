@@ -29,9 +29,6 @@ Welcome to my GitHub profile! Here you can find some of my projects, as well as 
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlec&layout=compact&langs_count=6&theme=radical)
-
-
 ## Frameworks & Libs
 
 <div>
