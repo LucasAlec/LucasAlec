@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you can find some of my projects, as well as 
 
 - [Projeto Fast Food](https://github.com/LucasAlec/Projeto-Fast-Food) - A pizza site built with HTML, CSS, and JavaScript.
 - [React Essentials](https://github.com/LucasAlec/React-Essentials) - A basic react project.
-
+- [Ant Colony System (TCC)](https://github.com/LucasAlec/ColoniadeFormigas_TCC) - Ant Colony Optimization (ACO) algorithm applied to the Traveling Salesman Problem (TSP), using Python and NumPy.
 
 ## Languages
 
