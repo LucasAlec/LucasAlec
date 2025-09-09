@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here you can find some of my projects, as well as 
 ## About me
 
 - 🎓 Currently studying **Systems Analysis and Development**.
-- 💻 I’m focusing on **backend development with Java**.
+- 💻 I’m focusing on **Cybersecurity | Appsec**.
 - 🔍 **Curious** and love exploring new technologies.
 - 🚀 **Proactive** and always ready to take on new challenges.
 - 📚 Eager to **learn** and grow as a developer.
